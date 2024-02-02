@@ -1,4 +1,4 @@
-# AO2
+# A02
 Part 1: 
 
 Step 1: Go to www.github.com, you must create an account for GitHub.

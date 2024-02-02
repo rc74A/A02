@@ -2,6 +2,7 @@
 Part 1: 
 
 Step 1: Go to www.github.com, you must create an account for GitHub.
+
 Step 2: You must create a new repository and make it public and online. 
 Step 3: Once the repository is ready, create HTML and CSS files either on GitHub itself or on another application of your choice. Canvas recommends 
 Webstorm, but I'd rather stick with my own IDE. I personally use Notepad++ 
